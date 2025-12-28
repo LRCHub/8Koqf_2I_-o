@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Sweet Time",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-28T18:21:34.631743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "REO Speedwagon",
+      "has_synced": false,
+      "path": "select/01_Sweet_Time_REO_Speedwagon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/02_Sweet_Time_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Sweet_Time_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/04_Sweet_Time_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "sweet night, sweet time…",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/05_sweet_night,_sweet_time..._角巻わため.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Your Sweet Time",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/06_Take_Your_Sweet_Time_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Rebecca Sugar",
+      "has_synced": true,
+      "path": "select/07_Sweet_Time_Rebecca_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Frankie Ballard",
+      "has_synced": true,
+      "path": "select/08_Sweet_Time_Frankie_Ballard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Your Sweet Time (album version)",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/09_Take_Your_Sweet_Time_(album_version)_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "The Technicolors",
+      "has_synced": true,
+      "path": "select/10_Sweet_Time_The_Technicolors.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Time (Acoustic Bonus Track)",
+      "artist": "The Technicolors",
+      "has_synced": false,
+      "path": "select/11_Sweet_Time_(Acoustic_Bonus_Track)_The_Technicolors.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Time (Audiotree Live Version)",
+      "artist": "The Technicolors",
+      "has_synced": false,
+      "path": "select/12_Sweet_Time_(Audiotree_Live_Version)_The_Technicolors.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Kraak & Smaak",
+      "has_synced": true,
+      "path": "select/13_Sweet_Time_Kraak_&_Smaak.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Time",
+      "artist": "Kraak",
+      "has_synced": true,
+      "path": "select/14_Sweet_Time_Kraak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Time feat. Izo FitzRoy",
+      "artist": "Kraak",
+      "has_synced": true,
+      "path": "select/15_Sweet_Time_feat._Izo_FitzRoy_Kraak.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/16_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/17_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson feat. Lady A",
+      "has_synced": true,
+      "path": "select/18_Home_Sweet_(feat._Lady_A)_Russell_Dickerson_feat._Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/19_Home_Sweet_(feat._Lady_A)_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/20_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sweet Nothing",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/21_Sweet_Nothing_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Tabasco & Sweet Tea",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/22_Tabasco_&_Sweet_Tea_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/23_Oh_Me,_Oh_My_Sweet_Baby_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/24_Oh_Me,_Oh_My_Sweet_Baby_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Roll In My Sweet Baby's Arms",
+      "artist": "Leon Russell",
+      "has_synced": false,
+      "path": "select/25_Roll_In_My_Sweet_Baby's_Arms_Leon_Russell.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/26_Short_Sweet_Ride_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/27_Short_Sweet_Ride_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sweet Country Music",
+      "artist": "Atlanta",
+      "has_synced": true,
+      "path": "select/28_Sweet_Country_Music_Atlanta.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/29_Sweet_Dreams_(Of_You)_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/30_Sweet_Dreams_(Of_You)_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Sweet Dreams Of You",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/31_Sweet_Dreams_Of_You_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/32_Sweet_Home_Alabama_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Time",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Time_Porter_Robinson.txt"
+    }
+  ]
+}
